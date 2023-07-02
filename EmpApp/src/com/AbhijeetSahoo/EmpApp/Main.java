@@ -65,7 +65,7 @@ public static void main(String[] args) {
 				edi.deleteEmp(empId);
 				break;
 			case 6:
-				System.out.println("Thank you....");
+				System.out.println("Thank you...");
 				System.exit(0);
 				break;
 			default:
